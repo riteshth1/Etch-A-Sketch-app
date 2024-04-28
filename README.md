@@ -1,6 +1,4 @@
 
-Certainly! Here's a basic README file for your Etch-A-Sketch App:
-
 Etch-A-Sketch App
 Description:
 This Python script creates a simple Etch-A-Sketch drawing application using the Turtle module. Users can control the movement of a turtle pen on the screen using keyboard inputs.
